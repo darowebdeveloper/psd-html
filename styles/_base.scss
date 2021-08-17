@@ -1,0 +1,18 @@
+$color-orange: #f08c00;
+$color-orange-dark: #ed7c0d;
+$color-orange-light: #f9a800;
+
+$color-black-1: #272727;
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-family: 'Khmer OS Siemreap', Siemreap, sans-serif;
+  font-size: 62.5%; // 10 / 16
+  box-sizing: border-box;
+}

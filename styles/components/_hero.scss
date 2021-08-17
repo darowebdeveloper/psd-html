@@ -1,0 +1,10 @@
+.hero {
+  margin-top: 8rem;
+  text-align: center;
+  &__heading {
+    font-family: 'Khmer OS Bokor', Bokor, sans-serif;
+    font-size: 3.6rem;
+    line-height: 2.4rem;
+    margin-bottom: 8rem;
+  }
+}
